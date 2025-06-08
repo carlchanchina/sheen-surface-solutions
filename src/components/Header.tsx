@@ -22,7 +22,7 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center">
             <div className="text-2xl font-bold text-primary">
-              塑面科技
+              海笑
             </div>
             <div className="ml-2 text-sm text-muted-foreground hidden md:block">
               专业表面处理解决方案
@@ -46,7 +46,7 @@ const Header = () => {
           <div className="hidden lg:flex items-center space-x-4">
             <div className="flex items-center text-sm text-muted-foreground">
               <Phone className="w-4 h-4 mr-1" />
-              400-123-4567
+              1321-886-1188
             </div>
             <Button size="sm" className="industrial-gradient">
               立即咨询

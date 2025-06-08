@@ -99,8 +99,8 @@ const Footer = () => {
               <div className="flex items-center space-x-3">
                 <MapPin className="w-5 h-5 text-accent-cyan flex-shrink-0" />
                 <div>
-                  <div className="text-white">深圳市宝安区</div>
-                  <div className="text-sm text-gray-400">工业园区A座8楼</div>
+                  <div className="text-white">苏州市吴中区</div>
+                  <div className="text-sm text-gray-400">木椟区A座8楼</div>
                 </div>
               </div>
             </div>
@@ -110,7 +110,7 @@ const Footer = () => {
         {/* Bottom Section */}
         <div className="border-t border-white/10 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <div className="text-gray-400 text-sm mb-4 md:mb-0">
-            © 2024 塑面科技有限公司. 保留所有权利. | 粤ICP备12345678号
+            © 2024 海活科技有限公司. 保留所有权利. | 苏ICP备12345678号
           </div>
           
           <Button
